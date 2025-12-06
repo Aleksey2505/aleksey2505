@@ -7,34 +7,43 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@Whatmeanbetter-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Whatmeanbetter)
 [![Email](https://img.shields.io/badge/Email-ak2205781@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ak2205781@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Портфолио-Проекты-00D4B6?style=for-the-badge&logo=github)](https://aleksey2505.github.io/rep1/)
-[![Aeroscope Vision](https://img.shields.io/badge/Aeroscope_Vision-Desktop_App-FF6F00?style=for-the-badge&logo=python)](https://github.com/aleksey2505/Aeroscope-Vision)
+[![Map-Python](https://img.shields.io/badge/Map_Python-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/Aleksey2505/map-python)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aleksey2505&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/aleksey2505?style=social)
 
 > Специализируюсь на **промышленном Python**: автоматизация рутины, миграция с Excel/VBA, надёжные пайплайны данных, интеграции и бизнес-дашборды.  
 > Реальный опыт внедрения CV/ML-систем в научные экспедиции и поисково-спасательные операции.
 
-## Ключевые компетенции
+## 🛠️ Ключевые компетенции
 
-| Направление                  | Технологии и опыт |
-|------------------------------|-------------------|
-| **Промышленный Python**      | Чистая архитектура, пайплайны, валидация, логирование, тестирование, документация |
-| **Веб и дашборды**           | FastAPI • Flask • Streamlit • PySide6 • Swagger |
-| **Данные**                   | Pandas • NumPy • PostgreSQL • Google Sheets API |
-| **Миграция VBA → Python**    | 5+ бизнес-дашбордов (CRM, финансы, HR, склад, продажи) |
-| **Computer Vision & ML**     | YOLOv8 • Ultralytics • OpenCV • MediaPipe • PyTorch • Norfair • кастомный трекинг |
-| **Геоданные и картография**  | SRT-парсинг • EXIF • Folium • Esri World Imagery |
-| **Контейнеризация**          | Docker |
-| **В процессе изучения**      | Elasticsearch • n8n |
+### **Промышленный Python**
+- Чистая архитектура, пайплайны, валидация, логирование, тестирование, документация
+- Миграция VBA → Python (5+ бизнес-дашбордов)
 
-## Основные проекты
+### **Веб и дашборды**
+- FastAPI • Flask • Streamlit • PySide6 • Swagger
+- PostgreSQL • Google Sheets API
 
-### Aeroscope Vision — Desktop-приложение для анализа дрон-видео
-Профессиональное приложение на **PySide6 + YOLOv8 + OpenCV + Folium**  
-Автоматически обнаруживает людей → привязывает GPS из SRT/EXIF → строит интерактивную карту  
-Используется спасателями и в научных экспедициях  
-[Репозиторий](https://github.com/aleksey2505/Aeroscope-Vision) • [Демо](https://aleksey2505.github.io/rep1/)
+### **Computer Vision & ML**
+- YOLOv8 • Ultralytics • OpenCV • MediaPipe • PyTorch
+- Нейросетевой трекинг (Norfair, Re-ID)
+- Промышленное внедрение CV в поисково-спасательных операциях
+
+### **Геоданные и картография**
+- SRT-парсинг • EXIF • Folium • Esri World Imagery
+- Обработка и визуализация пространственных данных
+
+### **Инфраструктура**
+- Docker (контейнеризация приложений)
+- В процессе изучения: Elasticsearch • n8n
+
+## 🚀 Основные проекты
+
+### Map-Python — Интерактивные карты для анализа геоданных
+Веб-приложение на **Streamlit + Folium + Geopandas** для работы с геоданными  
+Визуализация маршрутов, точек интереса, тепловых карт и кластеризации  
+Поддержка GeoJSON, KML, GPX и интеграция с Esri, OpenStreetMap  
+[Репозиторий](https://github.com/Aleksey2505/map-python) • [Демо-приложение](https://map-python.streamlit.app/)
 
 ### Счётчик уникальных нерп (и людей) с высотных облётов
 - Свой датасет 3000+ фото → кастомный лэйблер → YOLOv8  
@@ -47,7 +56,7 @@
 ### 5 бизнес-дашбордов на Streamlit (замена Excel/VBA)
 CRM • Финансы • HR (ФОТ, отпуска по ТК РФ) • Склад • Воронка продаж с прогнозом
 
-## Технологический стек
+## 💻 Технологический стек
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -63,13 +72,24 @@ CRM • Финансы • HR (ФОТ, отпуска по ТК РФ) • Скл
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-## GitHub Статистика
+## 📊 GitHub Статистика
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aleksey2505&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksey2505&layout=compact&theme=tokyonight&hide_border=true)]
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksey2505&theme=tokyonight&show_icons=true&hide_border=true)]
+<!-- Левая колонка: streak stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aleksey2505&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-## Готов к задачам
+<!-- Правая колонка: общая статистика и языки -->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aleksey2505&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey2505&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+## ✅ Готов к задачам
 - Миграция VBA/Excel → Python  
 - Пайплайны обработки и валидации данных  
 - Автоматизация отчётности и дашбордов  
@@ -78,7 +98,7 @@ CRM • Финансы • HR (ФОТ, отпуска по ТК РФ) • Скл
 
 Открыт к full-time, part-time и долгосрочному фрилансу
 
-## Связаться со мной
+## 📞 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Whatmeanbetter-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Whatmeanbetter)
 [![Email](https://img.shields.io/badge/Email-ak2205781@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ak2205781@gmail.com)
