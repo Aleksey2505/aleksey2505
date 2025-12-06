@@ -78,16 +78,6 @@ CRM • Финансы • HR (ФОТ, отпуска по ТК РФ) • Скл
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aleksey2505&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!-- Правая колонка: общая статистика и языки -->
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aleksey2505&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey2505&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 ## ✅ Готов к задачам
 - Миграция VBA/Excel → Python  
