@@ -66,8 +66,8 @@ CRM • Финансы • HR (ФОТ, отпуска по ТК РФ) • Скл
 ## GitHub Статистика
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aleksey2505&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksey2505&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksey2505&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksey2505&layout=compact&theme=tokyonight&hide_border=true)]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksey2505&theme=tokyonight&show_icons=true&hide_border=true)]
 
 ## Готов к задачам
 - Миграция VBA/Excel → Python  
